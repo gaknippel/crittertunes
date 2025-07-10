@@ -36,7 +36,7 @@ fn main()
 {
      let options = eframe::NativeOptions::default();
     eframe::run_native(
-        "Rust MP3 Player",
+        "crittertunes",
         options,
         Box::new(|_cc| Box::new(MyApp::default())),
     );
