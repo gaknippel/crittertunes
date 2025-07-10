@@ -1,4 +1,4 @@
-AN AWESOME MP3 PLAYER PROJECT IN RUST!!!
+*AN AWESOME MP3 PLAYER PROJECT IN RUST!!!*
 
 -made in Windows 11 using VS code
 -rust
