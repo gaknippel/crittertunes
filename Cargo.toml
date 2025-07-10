@@ -1,0 +1,10 @@
+[package]
+name = "mp3_player"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+winapi = { version = "0.3", features = ["winuser"] }
+eframe = "0.22"
+rodio = "0.17"
